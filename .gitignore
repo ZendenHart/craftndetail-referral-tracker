@@ -1,0 +1,7 @@
+# Customer exports belong outside the public source repository.
+*.csv
+*.tsv
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
